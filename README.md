@@ -1,2 +1,2 @@
 # htc_marvel
-Official coreptis repository for Htc Wildfire S (Marvel) 
+Official coreptis repository for HTC Wildfire S (Marvel) 
